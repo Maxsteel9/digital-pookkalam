@@ -1,6 +1,6 @@
 """
 Digital Pookkalam 🌸✨ (Round version)
-Author: <Your Name>
+Author: <Mahin aboobakkar>
 """
 
 import turtle
